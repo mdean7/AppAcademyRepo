@@ -1,0 +1,55 @@
+
+body {
+  font-family: Arial, Helvetica, sans-serif
+
+}
+
+h1 {
+  font-size: 38px;
+}
+h2 {
+  font-size: 32px;
+}
+
+.ingredient-list {
+  list-style: "square inside";
+}
+
+ol {
+  list-style: "japanese-formal";
+}
+
+header > img {
+width: 100px;
+}
+
+ul > li > a {
+  text-decoration: none;
+  color: inherit;
+}
+
+* {
+  background-color: rgb(0, 0, 0);
+ color: ghostwhite;
+}
+
+
+#review  {
+  box-sizing: content-box;
+width: 100%;
+ font-size: 20px;
+  color: rgb(255, 255, 255);
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(0, 0, 0);
+}
+
+#_review {  
+  width: 100%;
+  padding: 12px;
+  border: 1px solid rgb(255, 255, 255);
+  margin: 0;
+  font-size: 15px;
+  font-family: 'Courier New', Courier, monospace;
+  
+}
+
